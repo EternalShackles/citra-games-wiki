@@ -1,0 +1,9 @@
+title = "Attack On Titan: Humanity in Chains"
+description = "AoT is an action game based on same named anime and developed by Spike Chunsoft. The game casts players in role of characters from the Attack on Titan series, or a character they created, as they take hold of three-dimensional maneuver gear to attack Titans, giants that hunt and devour humans."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "1125899908095488"
+region = "usa"
+release_date = "2015-05-12"
