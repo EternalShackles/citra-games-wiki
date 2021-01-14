@@ -1,0 +1,10 @@
+title = "バトル オブ エレメンタル REBOOST (Battle of Elemental REBOOST)"
+description = "\"Battle of Elemental REBOOST\" is upgraded DSiware game (Clash of Elementalist), it's a 3D space battle action game where you can enjoy one-on-one tense battles anytime, anywhere. The game features local play as well as the internet play.  It was published by AMZY corporation as well as nintendo switch port and is again, Japan eShop exclusive."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000166C00"
+region = "jpn"
+release_date = "2016-06-29"
