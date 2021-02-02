@@ -1,0 +1,9 @@
+title = "E.X. Troopers"
+description = "Ex Troopers is an action packed shooter RPG published by CAPCOM where you set out on missions to fight against the hostile snow bandits and the native creatures, Acrids. In addition to the story, game features local multiplayer missions with up to 6 players."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000053700"
+region = "jpn"
+release_date = "2012-11-22"
