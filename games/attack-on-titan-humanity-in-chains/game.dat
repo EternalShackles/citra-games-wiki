@@ -1,25 +1,10 @@
 title = "Attack on Titan: Humanity in Chains"
-description = "Attack on Titan: Humanity in Chains , known as \"Shingeki no Kyojin: Humanity in Chains\" in Europe and \"Shingeki no Kyojin: Jinrui Saigo no Tsubasa CHAIN\" in Japan, is an action game developed by Spike Chunsoft. It was published by Atlus in North America and Europe, and Spike Chunsoft in Japan. The game was originally released in Japan as \"Shingeki no Kyojin: Jinrui Saigo no Tsubasa\"."
-github_issues = [1744]
+description = "It's an action mission based slashing game developed by Spike Chunsoft. It was based on the manga/anime of the same name and this version of the game was localized by Atlus and released on the Nintendo eShop in North America. Players control 1 of the characters, hooking to the Titans trying to slash through their neck from behind."
 needs_system_files = false
-needs_shared_font = true
+needs_shared_font = false
+game_type = "eshop"
 
 [[releases]]
 title = "0004000000131E00"
 region = "usa"
 release_date = "2015-05-12"
-
-[[ releases ]]
-title = "0004000000152000"
-region = "eur"
-release_date = "2015-07-02"
-
-[[ releases ]]
-title = "0004000000134500"
-region = "jpn"
-release_date = "2014-12-04"
-
-[[ releases ]]
-title = "00040000000DF800"
-region = "jpn"
-release_date = "2013-12-05"
